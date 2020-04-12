@@ -63,10 +63,10 @@
       box-sizing: border-box; 
   }
   .container select{
-    width: 270px;
+    width: 370px;
   }
   input {
-      width: 270px;
+      width: 370px;
       background-color: rgba(71, 179, 74, 0.534);
       color: white;
       padding: 12px 20px;
@@ -79,7 +79,7 @@
   }
   
   .container textarea{
-    width: 270px;
+    width: 370px;
   }
   .container button{
     padding: 10px  20px;
